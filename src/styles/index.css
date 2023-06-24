@@ -1,0 +1,14 @@
+:root{
+    --white: #fff;
+    --blue: #0077ff;
+    --gray: #4f4d57;
+    --background-primary: #08080f;
+    --background-seconday: #181825;
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Inter', sans-serif;
+    scroll-behavior: smooth;
+}

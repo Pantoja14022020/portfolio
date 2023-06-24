@@ -1,0 +1,18 @@
+.section-footer{
+    padding: 8rem;
+    background-color: #0d0d18;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.section-footer div{
+    padding: 0.5rem;
+    background-color: var(--blue);
+    border-radius: 0.2rem;
+}
+
+.section-footer div:first-child{
+    margin-right: 2rem;
+}

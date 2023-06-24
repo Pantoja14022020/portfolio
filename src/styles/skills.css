@@ -1,0 +1,132 @@
+.section-skills{
+    background-image: url('../../public/assets/skills-background.svg');
+    text-align: center;
+    padding: 4rem;
+    overflow: hidden;
+}
+
+
+.section-skills h5{
+    color: var(--blue);
+    margin-bottom: 0.5rem;
+}
+.section-skills h2{
+    margin-bottom: 2rem;
+    color: var(--white);
+}
+.container-tecnologias{
+    width: 80%;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+}
+
+
+.frontend{
+    text-align: start;
+}
+.frontend h2{
+    margin-bottom: 1rem;
+}
+.frontend-items{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+}
+.backend{
+    text-align: end;
+    margin-top: 2rem;
+}
+.backend h2{
+    margin-bottom: 1rem;
+    color: var(--blue);
+}
+.backend-items{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+}
+
+
+
+
+
+.item{
+    width: 90px;
+    height: 90px;
+    text-align: center;
+    padding: 0.5rem;
+    background-color: var(--background-seconday);
+    border-radius: 0.5rem;
+    margin-right: 1rem;
+}
+.item img{
+    width: 100%;
+    height: 100%;
+}
+.item h5{
+    margin-top: 1rem;
+    color: var(--gray);
+}
+
+
+
+
+
+
+
+
+
+@media screen and (max-width: 870px){
+    .backend-items{
+        justify-content: center;
+    }
+    .frontend-items{
+        justify-content: center;
+    }
+    .frontend{
+        text-align: center;
+    }
+    .backend{
+        text-align: center;
+        margin-top: 3rem;
+    }
+}
+@media screen and (max-width: 643px){
+    .item h5{
+        font-size: 0.8rem;
+    }
+    .frontend h2{
+        text-align: center;
+        font-size: 0.8rem;
+    }
+    .backend h2{
+        font-size: 0.8rem;
+    }
+}
+@media screen and (max-width: 581px){
+    .item{
+        width: 60px;
+        height: 60px;
+    }
+}
+@media screen and (max-width: 510px){
+    .item{
+        width: 40px;
+        height: 40px;
+    }
+    .item h5{
+        font-size: 0.6rem !important;
+    }
+    .container-tecnologias{
+        width: 90%;
+    }
+}
+@media screen and (max-width: 421px){
+    .section-skills h5{
+        font-size: 0.6rem;
+    }
+    .section-skills h2{
+        font-size: 0.8rem;
+    }
+}

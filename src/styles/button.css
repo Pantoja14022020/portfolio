@@ -1,0 +1,30 @@
+.header-button{
+    width: 130px;
+    text-decoration: none;
+    background-color: var(--blue);
+    padding: 1rem;
+    border-radius: 0.5rem;
+    border: 1px solid var(--blue);
+    color: var(--background-primary);
+    
+    transition: all ease-in-out 0.3s;
+}
+.header-button:hover{
+    background-color: var(--white);
+    border: 1px solid var(--white);
+}
+.secondary-button{
+    width: 130px;
+    text-decoration: none;
+    padding: 1rem;
+    border-radius: 0.5rem;
+    border: 1px solid var(--blue);
+    color: var(--blue);
+    margin: 0.5rem;
+    transition: all ease-in-out 0.3s;
+}
+.secondary-button:hover{
+    background-color: var(--white);
+    border: 1px solid var(--white);
+    color: var(--background-primary);
+}
