@@ -1,7 +1,7 @@
 .section-projects{
     text-align: center;
     padding: 4rem;
-    background-image: url('./../../public/assets/portafolio-back.svg');
+    background-image: url('/assets/portafolio-back.svg');
     background-position: center;
     background-size: cover;
     overflow: hidden;

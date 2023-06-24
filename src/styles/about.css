@@ -2,7 +2,7 @@
     background-color: var(--background-primary);
     text-align: center;
     padding: 2rem;
-    background-image: url('../../public/assets/background-skills.svg');
+    background-image: url('/assets/background-skills.svg');
     overflow: hidden;
 }
         .section-about h5{

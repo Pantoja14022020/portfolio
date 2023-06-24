@@ -1,0 +1,3 @@
+1. Una vez terminado el proyecto, ejecutar el siguiente comando: npm run build
+
+2. Se generara un archivo llamado 'dist'. Ese archivo sera el que vamos a subir a netlify

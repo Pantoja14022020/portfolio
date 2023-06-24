@@ -10,19 +10,19 @@ function Skills(){
                     <h2>Front-End</h2>
                     <div className='frontend-items'>
                         <div className="item">
-                            <img src="../public/assets/html.svg" alt="html" />
+                            <img src="/assets/html.svg" alt="html" />
                             <h5>HTML</h5>
                         </div>
                         <div className="item">
-                            <img src="../public/assets/css.png" alt="css" />
+                            <img src="/assets/css.png" alt="css" />
                             <h5>CSS</h5>
                         </div>
                         <div className="item">
-                            <img src="../public/assets/js.svg" alt="js" />
+                            <img src="/assets/js.svg" alt="js" />
                             <h5>JavaScript</h5>
                         </div>
                         <div className="item">
-                            <img src="../public/assets/react.svg" alt="react" />
+                            <img src="/assets/react.svg" alt="react" />
                             <h5>React</h5>
                         </div>
                     </div>
@@ -31,19 +31,19 @@ function Skills(){
                     <h2>Back-End</h2>
                     <div className='backend-items'>
                         <div className="item">
-                            <img src="../public/assets/nodejs.svg" alt="nodejs" />
+                            <img src="/assets/nodejs.svg" alt="nodejs" />
                             <h5>NodeJS</h5>
                         </div>
                         <div className="item">
-                            <img src="../public/assets/spring.svg" alt="spring" />
+                            <img src="/assets/spring.svg" alt="spring" />
                             <h5>SpringBoot</h5>
                         </div>
                         <div className="item">
-                            <img src="../public/assets/mysql.svg" alt="mysql" />
+                            <img src="/assets/mysql.svg" alt="mysql" />
                             <h5>MySQL</h5>
                         </div>
                         <div className="item">
-                            <img src="../public/assets/git.svg" alt="git" />
+                            <img src="/assets/git.svg" alt="git" />
                             <h5>Git</h5>
                         </div>
                     </div>

@@ -7,7 +7,7 @@ header{
     justify-content: center;
     align-items: center;
     position: relative;
-    background-image: url('../../public/assets/header-background.svg');
+    background-image: url('/assets/header-background.svg');
     background-position: center;
     background-size: cover;
     overflow: hidden;

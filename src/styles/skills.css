@@ -1,5 +1,5 @@
 .section-skills{
-    background-image: url('../../public/assets/skills-background.svg');
+    background-image: url('/assets/skills-background.svg');
     text-align: center;
     padding: 4rem;
     overflow: hidden;

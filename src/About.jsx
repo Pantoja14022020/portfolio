@@ -10,7 +10,7 @@ function About(){
             <h5>Conoceme</h5>
             <h2>Sobre mi</h2>
             <div className="container-about">
-                <div className='profile-container hide animate__animated animate__fadeOutLeft'><div className="behind-figure"></div><figure><img src="../public/assets/foto.png" alt="profile" /></figure></div>
+                <div className='profile-container hide animate__animated animate__fadeOutLeft'><div className="behind-figure"></div><figure><img src="/assets/foto.png" alt="profile" /></figure></div>
                 <div className="details-about hide animate__animated animate__fadeOutRight">
                     <div className='icons-about'><span><IoIosSchool className='io-about'/></span><span><IoCodeOutline className='io-about'/></span></div>
                     <p> Estudiante de Ingenieria de Software con ganas de superarse y consolidarse profesionalmente en el campo laboral. Me 
