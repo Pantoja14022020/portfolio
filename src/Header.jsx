@@ -18,7 +18,7 @@ function Header(){
                 <div className="introduce">
                     <h5>Hola soy</h5>
                     <h1>Daniel Tlanepantla Pantoja</h1>
-                    <h5>Desarrollador Full-Stack</h5>
+                    <h5>Full Stack Web Jr</h5>
                 </div>
             </div>
             <div className="buttons-header animate__animated animate__fadeInRight">
