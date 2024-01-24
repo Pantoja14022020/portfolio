@@ -11,8 +11,8 @@ function Header(){
             <div className="content-header animate__animated animate__fadeInLeft">
                 <aside>
                     <ul>
-                        <li><a href="#" target="_blank"><FaLinkedin className="fa-header"/></a></li>
-                        <li><a href="#" target="_blank"><FaGithub className="fa-header"/></a></li>
+                        <li><a href="https://www.linkedin.com/in/daniel-tlanepantla-pantoja-b709aa1b1/" target="_blank"><FaLinkedin className="fa-header"/></a></li>
+                        <li><a href="https://github.com/Pantoja14022020/" target="_blank"><FaGithub className="fa-header"/></a></li>
                     </ul>
                 </aside>
                 <div className="introduce">
@@ -22,8 +22,8 @@ function Header(){
                 </div>
             </div>
             <div className="buttons-header animate__animated animate__fadeInRight">
-                <Button tipo="download" href="../public/assets/CV.pdf" clase="secondary-button" titulo="Descargar CV"/>
-                <Button tipo="button-header" href="#contact" clase="header-button" titulo="Contactame"/>
+                <Button tipo="download" href="/assets/CV.pdf" clase="secondary-button" titulo="Descargar CV"/>
+                <Button tipo="button-header" href="#contacto" clase="header-button" titulo="Contactame"/>
             </div>
         </header>
     )
